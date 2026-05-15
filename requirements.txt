@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+requests
+scikit-learn
+lightgbm
+catboost
+tensorflow
+keras
+statsmodels
+plotly
+matplotlib
+optuna
